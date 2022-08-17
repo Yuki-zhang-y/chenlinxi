@@ -76,7 +76,7 @@ a {
   color: #42b983;
 } */
 .box {
-  height: 95vh;
+  height: 100vh;
   display: flex;
   align-items: flex-start;
   
